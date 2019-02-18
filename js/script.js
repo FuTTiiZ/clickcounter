@@ -1,1 +1,1 @@
-var clicks=0;function add(){clicks++,document.getElementById("btn-main").value="Clicks: "+clicks}
+var clicks=0;function add(){clicks++,document.getElementById("body-main").innerHTML="Clicks: "+clicks}
